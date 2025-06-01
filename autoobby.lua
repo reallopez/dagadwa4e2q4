@@ -7,7 +7,7 @@ ScreenGui.Name = "ObbyAutoFarmGui"
 
 Button.Parent = ScreenGui
 Button.Size = UDim2.new(0, 250, 0, 50)
-Button.Position = UDim2.new(0.5, -125, 0.5, -25)
+Button.Position = UDim2.new(0.13, 20, 1, -230)
 Button.Text = "Ativar Farm Obby"
 Button.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
 Button.TextColor3 = Color3.new(1, 1, 1)
